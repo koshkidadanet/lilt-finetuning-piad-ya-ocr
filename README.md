@@ -24,7 +24,7 @@
 > PIAD не выложен в открытый доступ, так как некоторые элементы содержат персональные данные.
 
 ## Дообучение LiLT
-Перед дообучением модели требуется привести датасет в формат, подходящий для обучения из формата, получаемого с ubiAI. За предобработку даннх отвечает скрипт [preprocessing_data.ipynb](https://github.com/koshkidadanet/lilt-finetuning-piad-ya-ocr/blob/main/preprocessing_data.ipynb).
+Перед дообучением модели требуется привести датасет в формат, подходящий для обучения из формата, получаемого с ubiAI. За предобработку данных отвечает скрипт [preprocessing_data.ipynb](https://github.com/koshkidadanet/lilt-finetuning-piad-ya-ocr/blob/main/preprocessing_data.ipynb).
 
 Скрипт [finetuning_lilt_model_kgl.ipynb](https://github.com/koshkidadanet/lilt-finetuning-piad-ya-ocr/blob/main/finetuning_lilt_model_kgl.ipynb) отвечает за дообучение модели на платформе Kaggle.  
 * F1-score для всех сущностей - **0.877**  
