@@ -34,4 +34,4 @@
 Скрипт [inference_kgl.ipynb](https://github.com/koshkidadanet/lilt-finetuning-piad-ya-ocr/blob/main/inference_kgl.ipynb) отвечает за инференс алгоритма на платформе Kaggle с использованием `Yandex Vision OCR`. В данном скрипте можно увидеть пример работы алгоиртма на нескольких документах из валидационной выборки и итоговую таблицу в виде **pd.DataFrame**. 
 
 **Пример разметки документа**  
-<img src='images/example.png' width='80%' height='80%'>
+<img src='images/example.png' width='60%' height='60%'>
